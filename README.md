@@ -21,4 +21,6 @@ Here are the steps to setup code:
 
 PS- if you are getting any errors such as java facet or cross marks on jre libraries then look online for solutions. The fix varies depending on the java versions you have installed in your pc.
 
+Here is the link to the deployed version: https://shortestpath-1144.appspot.com
+
 
